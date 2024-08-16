@@ -1,0 +1,73 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+h1 {
+    background-color: lightblue;
+    border: 2px solid black;
+    font-family: Verdana;  
+    text-align: center;
+    border-width: 10px;
+    border-style: solid;
+}
+.bibim {
+    position: absolute;
+    top:40%;
+    left:60%;
+    transform: translate(-60%,-50%);
+    width: -50px;
+    padding: 700px;
+}
+h3 {
+    color: sandybrown;
+    font-size: 20px;
+    font-family: Tahoma;
+    font-weight: lighter;    
+}
+p {
+    color: tomato;
+    font-size: 15px;
+    font-family: Arial;
+}
+label {
+    text-decoration: underline;
+    font-family: Arial black;
+}
+.breakfast {
+    text-decoration: black double underline;
+    font-size: 20px;
+}
+.lunch {
+    text-decoration: black double underline;
+    font-size: 20px;
+}
+.dinner {
+    text-decoration: black double underline;
+    font-size: 20px;
+}
+.dessert {
+    text-decoration: black double underline;
+    font-size: 20px;
+}
+.momordica {
+    color: white;
+    font-size: 15px;
+    line-height: 2.5em;
+    background-color: darkolivegreen;
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.orange {
+    color: white;
+    font-size: 15px;
+    line-height: 2.5em;
+    background-color: darkgoldenrod;
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.pancake {
+    width: 50px;
+}
